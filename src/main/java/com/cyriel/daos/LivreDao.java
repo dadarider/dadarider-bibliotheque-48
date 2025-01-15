@@ -1,7 +1,7 @@
-package org.lengueCode.daos;
+package com.cyriel.daos;
 
-import org.lengueCode.Connection.DataBaseConnection;
-import org.lengueCode.entites.Livre;
+import com.cyriel.Connection.DataBaseConnection;
+import com.cyriel.entites.Livre;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

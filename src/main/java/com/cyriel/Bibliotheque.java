@@ -1,21 +1,17 @@
-package org.lengueCode;
+package com.cyriel;
 
-import org.lengueCode.daos.EmpruntDao;
-import org.lengueCode.daos.LivreDao;
-import org.lengueCode.daos.MembreDao;
-import org.lengueCode.entites.Emprunt;
-import org.lengueCode.entites.Livre;
-import org.lengueCode.entites.Membre;
-import org.lengueCode.enums.StatusEmprunt;
+import com.cyriel.daos.EmpruntDao;
+import com.cyriel.daos.LivreDao;
+import com.cyriel.daos.MembreDao;
+import com.cyriel.entites.Emprunt;
+import com.cyriel.entites.Livre;
+import com.cyriel.entites.Membre;
+import com.cyriel.enums.StatusEmprunt;
 
-import java.sql.Connection;
 import java.time.LocalDate;
-import java.time.format.DateTimeParseException;
 import java.time.temporal.ChronoUnit;
 import java.util.List;
 import java.util.Scanner;
-import java.util.UUID;
-import java.util.stream.Stream;
 
 public class Bibliotheque {
     public static void main(String[] args) {

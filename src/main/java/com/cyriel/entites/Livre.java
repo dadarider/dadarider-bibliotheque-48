@@ -1,4 +1,4 @@
-package org.lengueCode.entites;
+package com.cyriel.entites;
 
 public class Livre {
     private Long id;

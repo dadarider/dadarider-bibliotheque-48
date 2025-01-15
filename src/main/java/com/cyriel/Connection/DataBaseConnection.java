@@ -1,4 +1,4 @@
-package org.lengueCode.Connection;
+package com.cyriel.Connection;
 import java.sql.*;
 
 

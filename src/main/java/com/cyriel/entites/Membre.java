@@ -1,4 +1,4 @@
-package org.lengueCode.entites;
+package com.cyriel.entites;
 
 import java.time.LocalDate;
 import java.util.List;

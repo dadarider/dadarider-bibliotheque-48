@@ -1,8 +1,7 @@
-package org.lengueCode.daos;
+package com.cyriel.daos;
 
-import org.lengueCode.Connection.DataBaseConnection;
-import org.lengueCode.entites.Livre;
-import org.lengueCode.entites.Membre;
+import com.cyriel.Connection.DataBaseConnection;
+import com.cyriel.entites.Membre;
 
 import java.sql.*;
 import java.time.LocalDate;

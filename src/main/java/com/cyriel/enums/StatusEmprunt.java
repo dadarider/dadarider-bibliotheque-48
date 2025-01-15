@@ -1,4 +1,4 @@
-package org.lengueCode.enums;
+package com.cyriel.enums;
 
 public enum StatusEmprunt {
     EN_COURS,

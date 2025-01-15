@@ -1,6 +1,6 @@
-package org.lengueCode.entites;
+package com.cyriel.entites;
 
-import org.lengueCode.enums.StatusEmprunt;
+import com.cyriel.enums.StatusEmprunt;
 
 import java.time.LocalDate;
 
